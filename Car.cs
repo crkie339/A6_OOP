@@ -16,9 +16,11 @@ namespace Project1Mono
         private Texture2D _carSpriteLeft, _carSpriteRight;
         private int _x,_y,_speed;
         private bool _carFacingRight;
+        private int _hp;
         
         public Car(int x, int y, int speed, Texture2D carSpriteL, Texture2D carSpriteR)        // argumented contructor
-        { 
+        {
+            _hp = 5;
             _x = x;
             _y = y;
             _speed = speed;
@@ -26,14 +28,23 @@ namespace Project1Mono
             _carSpriteRight = carSpriteR;
         }
         //getters
+
         public int GetX() { return _x;}
         public int GetY() { return _y;} 
         public Vector2 GetPosition()
         {
             return new Vector2(_x, _y);
         }
-
+        public int GetHp() 
+        { 
+            return _hp;
+        }
         //muthators
+        public void GetDamage()
+        {
+            _hp--;
+
+        }
         public void Update ()
         {
             if (Keyboard.GetState().IsKeyDown(Keys.A))

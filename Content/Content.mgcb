@@ -25,6 +25,30 @@
 /processorParam:TextureFormat=Color
 /build:../../../../Documentos/Gian/Cambrian/Program/A5 img/the_possessed_regan.png;Smile.png
 
+#begin Animated-Bomb-PNG.png
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Animated-Bomb-PNG.png
+
+#begin Carretera.jpg
+/importer:TextureImporter
+/processor:TextureProcessor
+/processorParam:ColorKeyColor=255,0,255,255
+/processorParam:ColorKeyEnabled=True
+/processorParam:GenerateMipmaps=False
+/processorParam:PremultiplyAlpha=True
+/processorParam:ResizeToPowerOfTwo=False
+/processorParam:MakeSquare=False
+/processorParam:TextureFormat=Color
+/build:Carretera.jpg
+
 #begin Font2.spritefont
 /importer:FontDescriptionImporter
 /processor:FontDescriptionProcessor

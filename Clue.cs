@@ -13,7 +13,7 @@ namespace Project1Mono
         private string _text;
         private Color _color;
         private SpriteFont _font;
-        private Vector2 _position;
+        protected Vector2 _position;
         private Vector4 _area;
         private int _radio;
         
@@ -26,7 +26,7 @@ namespace Project1Mono
             _font = font;
             _color = color;
         }
-        public void Draw(SpriteBatch spriteBatch)
+        public virtual void Draw(SpriteBatch spriteBatch)
         {
             spriteBatch.Begin();
             spriteBatch.DrawString(_font, _text, _position, _color);

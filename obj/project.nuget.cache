@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5v0Rgiiqr7aycfmYm4Rz++iCjfa55BggHERpDqW5vi3hnWOjHqZIMHcjkKllgLZ6jZUv7eXEeoNZCl5Jh+vrsg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\gcarb\\OneDrive\\cambrian classes\\Progamming\\Project1Mono\\Project1Mono.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\gcarb\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\gcarb\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}

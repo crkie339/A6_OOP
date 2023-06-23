@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profile>Reach</Profile>
+  <Platform>DesktopGL</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/../../../../Documentos/Gian/Cambrian/Program/A5 img/the_possessed_regan.png</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/Animated-Bomb-PNG.png</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/Carretera.jpg</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/Font2.spritefont</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/Font3.spritefont</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/Font4.spritefont</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/Font5.spritefont</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/HelloFont.spritefont</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/MonoCarL.png</File>
+    <File>C:/Users/gcarb/OneDrive/cambrian classes/Progamming/Project1Mono/Content/MonoCarR.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File>Smile.png</File>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
